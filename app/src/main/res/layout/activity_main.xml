@@ -46,6 +46,7 @@
             android:id="@+id/sttStart"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="ClickButton1"
             android:text="음성인식 시작" />
     </LinearLayout>
 
